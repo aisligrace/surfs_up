@@ -16,3 +16,8 @@ After using SQLAlchemy to retrieve all the temperatures for the month of June an
 * While there is an eight degree difference in the June min temp and the Dec min temp, both the average and max temps are within a few degrees.
 
 ## Summary
+In conclusion, while there are temperature variations between June and December in Oahu as stated above, I would still recommend keeping the shop open all year. The temperatures in December are still high enough for patrons to enjoy ice cream and surfing. Also, December is a large tourism month for Hawaii, due to many people wanting to escape colder temperatures elsewhere. Closing the shop in December would mean missing out on many potential customers. 
+
+However, we are only looking at temperatures in this analysis. I would perform the same queries using precipitation. Heavy amounts of rain in either month could skew revenue. I would also perform an analysis on March or April, as we did not condocut any analysis on the spring months. 
+
+##
